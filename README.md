@@ -1,6 +1,6 @@
-# Henrique Gnatkovski de Almeuda
+# Henrique Gnatkovski de Almeida
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;PUCPR+%7C+Curitiba+🎓)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;PUCPR+%7C+Curitiba+🎓)](https://git.io/typing-svg)
 
 ---
 
