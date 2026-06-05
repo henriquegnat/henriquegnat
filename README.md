@@ -1,18 +1,13 @@
-# Oi, eu sou o Henrique! 👋
+# Henrique Gnatkovski de Almeuda
 
-Estudante de Engenharia de Software na PUCPR 🎓
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;PUCPR+%7C+Curitiba+🎓)](https://git.io/typing-svg)
 
-## 🛠️ Tecnologias
+---
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## Technologies
 
-## 📌 Projetos em destaque
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,git,mysql,vscode&theme=dark)](https://skillicons.dev)
 
-- 🐍 [BibliotecaGAG](https://github.com/henriquegnat/BibliotecaGAG) — Sistema de biblioteca em Python
+---
 
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/henrique-gnatkovski-de-almeida-219397301/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6a5acd?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-gnatkovski-de-almeida-219397301)
