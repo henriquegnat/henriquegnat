@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:1E3A8A&height=200&text=Henrique%20Gnatkovski&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Software%20Engineering%20Student&descSize=18&descAlignY=85&descAlign=50)
+![](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:1E3A8A&height=200&text=Henrique%20Gnatkovski%20de%20Almeida&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=65&desc=Software%20Engineering%20Student&descSize=18&descAlignY=85&descAlign=50)
 
 <div align="center">
 
