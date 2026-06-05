@@ -1,6 +1,6 @@
-# Henrique Gnatkovski de Almeida
+![](https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=150&section=header&text=Henrique+Gnatkovski&fontSize=40&fontColor=white&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;PUCPR+%7C+Curitiba+🎓)](https://git.io/typing-svg)
+### Software Engineering Student | PUCPR 🎓
 
 ---
 
@@ -10,4 +10,6 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6a5acd?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-gnatkovski-de-almeida-219397301)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-gnatkovski-de-almeida-219397301)
+
+![](https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=100&section=footer)
