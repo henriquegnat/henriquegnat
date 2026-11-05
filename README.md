@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:1E3A8A&height=200&text=Henrique%20Gnatkovski%20de%20Almeida&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=62&desc=Software%20Engineering%20Student&descSize=18&descAlignY=82&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:1E3A8A&height=200&text=Henrique%20Gnatkovski%20de%20Almeida&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=62&desc=Software%20Engineering%20Student&descSize=18&descAlignY=82&descAlign=50" alt="Header" />
 
 <!-- TYPING SVG -->
 <a href="https://github.com/henriquegnat">
@@ -56,15 +56,17 @@
 <br>
 
 <a href="https://github.com/henriquegnat">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henriquegnat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegnat&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4169E1&text_color=c9d1d9" />
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henriquegnat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henriquegnat&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4169E1&text_color=c9d1d9" alt="Top Languages" />
 </a>
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=henriquegnat&bg_color=0d1117&color=4169E1&line=1E3A8A&point=ffffff&area=true&hide_border=true" />
+<a href="https://github.com/henriquegnat">
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henriquegnat&theme=tokyonight" alt="GitHub Profile Summary" />
+</a>
 
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1E3A8A,100:0a0a0a&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1E3A8A,100:0a0a0a&height=120&section=footer" alt="Footer" />
