@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:1E3A8A&height=210&section=header&text=Henrique%20Gnatkovski&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%40%20PUCPR%20%E2%80%A2%20Data%2C%20Automation%20%26%20Full-Stack&descSize=17&descAlignY=58&descAlign=50" alt="Header" />
+<img width="100%" src="./assets/header.svg" alt="Header" />
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/henriquegnat">
@@ -123,4 +123,4 @@ goal: Build practical software and data solutions that make real teams faster.
 </div>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0B1120&height=110&section=footer" alt="Footer" />
+<img width="100%" src="./assets/footer.svg" alt="Footer" />
