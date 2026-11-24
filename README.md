@@ -28,8 +28,8 @@
   "name": "Henrique Gnatkovski de Almeida",
   "role": "Software Engineering Student @ PUCPR",
   "location": "Curitiba, PR - Brazil",
-  "focus": ["Web Development", "Back-end", "Databases"],
-  "tech_stack": ["HTML", "CSS", "Bootstrap", "JavaScript", "PHP", "Python", "MySQL", "Git"],
+  "focus": ["Web Development", "Back-end", "Databases", "Data & Automation"],
+  "tech_stack": ["HTML", "CSS", "Bootstrap", "JavaScript", "PHP", "Python", "MySQL", "Power BI", "Git"],
   "status": "Always learning and building 🚀"
 }
 ```
@@ -40,6 +40,7 @@
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
+| 📊 [**TA Analytics & AI Screening**](https://github.com/henriquegnat/ta-analytics-ai-screening) | Dashboard de Talent Acquisition no Power BI (modelagem 1:N, funil e Time-to-Hire) integrado a triagem inicial de currículos com Python e Gemini API. | `Python` `Power BI` `Gemini API` `Excel` |
 | 📖 [**BookClub CRUD**](https://github.com/henriquegnat/bookclub-crud) | Plataforma web full-stack de gestão literária com arquitetura em 3 camadas e Prepared Statements. | `PHP` `MySQL` `JS` `Bootstrap` |
 | 💊 [**Pill Dispenser**](https://github.com/henriquegnat/PillDispenser) | Dispenser inteligente de medicamentos (IoT) com ESP32, dashboard web embarcado e bot no Telegram. | `ESP32` `IoT` `Web` `Telegram API` |
 | 📚 [**Library Management System**](https://github.com/henriquegnat/library-management-system) | Sistema CLI modular para controle de acervo, empréstimos, multas automáticas e relatórios. | `Python` `CLI` |
