@@ -5,21 +5,21 @@
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/henriquegnat">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Software+Engineering+Student+%40+PUCPR+%F0%9F%8E%93;Data%2C+BI+%26+AI+Automation+(Python+%E2%80%A2+Power+BI+%E2%80%A2+SQL);Building+Full-Stack+Web%2C+Analytics+%26+IoT+Projects;Turning+messy+processes+into+smart+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Software+Engineering+Student+%40+PUCPR;Data%2C+BI+%26+AI+Automation+(Python+%E2%80%A2+Power+BI+%E2%80%A2+SQL);Building+Full-Stack+Web%2C+Analytics+%26+IoT+Projects;Turning+complex+processes+into+clean+solutions" alt="Typing SVG" />
 </a>
 
 <br>
 
 <!-- SOCIAL & CONTACT BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-gnatkovski-de-almeida-219397301)
-[![Email](https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:henriquegnat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/henrique-gnatkovski-de-almeida-219397301)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:henriquegnat@gmail.com)
 [![Curitiba](https://img.shields.io/badge/Curitiba%2C%20PR-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8)](#)
 
 </div>
 
 ---
 
-### 👨‍💻 Who am I?
+### About Me
 
 ```yaml
 name: Henrique Gnatkovski de Almeida
@@ -36,47 +36,47 @@ goal: Build practical software and data solutions that make real teams faster.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 <a href="https://github.com/henriquegnat/ta-analytics-ai-screening">TA Analytics & AI Screening</a> <sub><code>NEW</code></sub></h4>
+      <h4><a href="https://github.com/henriquegnat/ta-analytics-ai-screening">TA Analytics & AI Screening</a> <sub><code>NEW</code></sub></h4>
       <p>Dashboard de Talent Acquisition no <b>Power BI</b> (modelagem relacional 1:N, funil de recrutamento e Time-to-Hire) integrado a triagem inicial de currículos anonimizados com <b>Python + Gemini API</b>.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-        <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Power%20BI-1E293B?style=flat-square&logo=powerbi&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Gemini%20API-1E293B?style=flat-square&logo=googlegemini&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Excel-1E293B?style=flat-square&logo=microsoftexcel&logoColor=38BDF8" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📖 <a href="https://github.com/henriquegnat/bookclub-crud">BookClub — Gestão Literária</a></h4>
+      <h4><a href="https://github.com/henriquegnat/bookclub-crud">BookClub — Gestão Literária</a></h4>
       <p>Plataforma web full-stack com CRUD completo em <b>arquitetura de 3 camadas</b>, banco relacional MySQL e Prepared Statements. Responsável pelo módulo de Resenhas.</p>
       <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-1E293B?style=flat-square&logo=php&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/MySQL-1E293B?style=flat-square&logo=mysql&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Bootstrap-1E293B?style=flat-square&logo=bootstrap&logoColor=38BDF8" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>💊 <a href="https://github.com/henriquegnat/PillDispenser">Pill Dispenser (IoT)</a></h4>
+      <h4><a href="https://github.com/henriquegnat/PillDispenser">Pill Dispenser (IoT)</a></h4>
       <p>Dispenser inteligente de medicamentos com <b>ESP32</b>, interface web embarcada para agendamento e notificações em tempo real via <b>bot no Telegram</b>.</p>
       <p>
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-        <img src="https://img.shields.io/badge/IoT-0EA5E9?style=flat-square&logo=internetarchive&logoColor=white" />
-        <img src="https://img.shields.io/badge/Telegram%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/ESP32-1E293B?style=flat-square&logo=espressif&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/IoT-1E293B?style=flat-square&logo=internetarchive&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Telegram%20API-1E293B?style=flat-square&logo=telegram&logoColor=38BDF8" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📚 <a href="https://github.com/henriquegnat/library-management-system">Library Management System</a></h4>
+      <h4><a href="https://github.com/henriquegnat/library-management-system">Library Management System</a></h4>
       <p>Sistema modular em <b>Python (CLI)</b> para gestão de acervo, usuários e empréstimos, com cálculo automático de multas e geração estruturada de relatórios.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/CLI-1E293B?style=flat-square&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/CLI-1E293B?style=flat-square&logo=gnubash&logoColor=38BDF8" />
       </p>
     </td>
   </tr>
@@ -86,20 +86,26 @@ goal: Build practical software and data solutions that make real teams faster.
 
 <div align="center">
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Data, BI & AI Automation**
 
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8)
 ![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=38BDF8)
-![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Excel](https://img.shields.io/badge/Excel-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=22C55E)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-0F172A?style=for-the-badge&logo=googlegemini&logoColor=60A5FA)
+![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=38BDF8)
+![Excel](https://img.shields.io/badge/Excel-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-0F172A?style=for-the-badge&logo=googlegemini&logoColor=38BDF8)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0F172A?style=for-the-badge&logo=powerautomate&logoColor=38BDF8)
 
 **Web Development & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,python,mysql,git,github,vscode&theme=dark&perline=10)](https://skillicons.dev)
+![PHP](https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=94A3B8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=94A3B8)
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=94A3B8)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=94A3B8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap&logoColor=94A3B8)
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=94A3B8)
+![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=94A3B8)
 
 </div>
 
@@ -107,7 +113,7 @@ goal: Build practical software and data solutions that make real teams faster.
 
 <div align="center">
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 
 <a href="https://github.com/henriquegnat">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=henriquegnat&theme=tokyonight" alt="GitHub Stats" />
