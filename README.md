@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:2563EB&height=210&section=header&text=Henrique%20Gnatkovski&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%40%20PUCPR%20%E2%80%A2%20Data%2C%20Automation%20%26%20Full-Stack&descSize=17&descAlignY=58&descAlign=50" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:1E3A8A&height=210&section=header&text=Henrique%20Gnatkovski&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%40%20PUCPR%20%E2%80%A2%20Data%2C%20Automation%20%26%20Full-Stack&descSize=17&descAlignY=58&descAlign=50" alt="Header" />
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/henriquegnat">
@@ -110,8 +110,8 @@ goal: Build practical software and data solutions that make real teams faster.
 ### 📈 GitHub Analytics
 
 <a href="https://github.com/henriquegnat">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=henriquegnat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henriquegnat&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=henriquegnat&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henriquegnat&theme=tokyonight" alt="Top Languages" />
 </a>
 
 <br><br>
@@ -123,4 +123,4 @@ goal: Build practical software and data solutions that make real teams faster.
 </div>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0B1120&height=110&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0B1120&height=110&section=footer" alt="Footer" />
